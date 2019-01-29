@@ -6,6 +6,10 @@ A simple python program to check if there's been an update to a class website.
 
 This project notifies me every time my professor updates the class website by putting a .txt file on my desktop. The program is run as a crontab job every few hours. The md5 checksum of each webpage I'm watching is used to track if any changes have been made since the last check. The most recent checksum is stored in the data.json file.
 
+## Requirements
+
+You need **python3** for this to work. Here's a easy to follow tutorial to install in on your mac: https://wsvincent.com/install-python3-mac/ You'll also need something to edit the code I recommend getting (**Visual Studio Code**)[https://code.visualstudio.com/]. 
+
 ## Changes You Need to Make Before Use
 
 These are the things you need to change before using this project (all changes need to be made to class-site-update.py):
