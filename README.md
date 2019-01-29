@@ -24,7 +24,7 @@ These are the things you need to change before using this project (all changes n
 3. Make sure you've already installed the Requirements and made the changes you need to make (see the above two sections of this doc).
 4. Open Terminal. 
 5. In Terminal type `cd ` (make sure there's a space after it) and then click and drag the folder into it. Then Press enter.
-6. In Terminal type `python3 class-site-update.py`and press Enter.
+6. In Terminal type `python3 class-site-update.py` and press Enter.
 
 ### Potential Future Plans
 
